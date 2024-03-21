@@ -22,14 +22,12 @@ body, html {
 
 
 .left-image {
-    max-width: 100%;
+    max-width: 60%; /* 设置图片最大宽度为容器宽度 */
     height: auto;
     display: block;
-    margin-bottom: 40px; /* 添加下方留白 */
-    margin-top: 80px;
-    margin-left: 80px;
-    margin-right: 80px;
+    margin: 50px auto; /* 上下居中 */
 }
+
 
 .caption {
     text-align: left;     margin-left: 80px;
@@ -69,12 +67,10 @@ body, html {
 
 .right-image {
     max-width: 100%;
+ /* 设置图片最大宽度为容器宽度 */
     height: auto;
     display: block;
-    margin-bottom: 40px; /* 添加下方留白 */
-    
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: 50px auto; /* 上下居中 */
 }
 
 .rightcaption {
@@ -85,10 +81,8 @@ body, html {
 }
 
 .right-image2 {
-    max-width: 100%;
+ max-width: 60%; /* 设置图片最大宽度为容器宽度 */
     height: auto;
     display: block;
-    margin-bottom: 40px; /* 添加下方留白 */
-    margin-left: 80px;
-    margin-right: 50px;
+    margin: 50px auto; /* 上下居中 */
 }
