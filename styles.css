@@ -81,7 +81,7 @@ body, html {
 }
 
 .right-image2 {
- max-width: 60%; /* 设置图片最大宽度为容器宽度 */
+ max-width: 80%; /* 设置图片最大宽度为容器宽度 */
     height: auto;
     display: block;
     margin: 50px auto; /* 上下居中 */
